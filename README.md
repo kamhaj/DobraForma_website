@@ -1,2 +1,2 @@
-# DobraForma_website gh
+# DobraForma_website GH-pages
 Website for personal training studio
